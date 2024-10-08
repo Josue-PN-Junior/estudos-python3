@@ -1,0 +1,5 @@
+print("===== DESAFIO 03 =====")
+n1 = int(input("Digite um número: "))
+n2 = int(input("Digite outro número: "))
+print("~ Resultado ---------------------")
+print("A soma de", n1, "+", n2, "é igual: ", n1 + n2)

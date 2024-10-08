@@ -1,0 +1,5 @@
+n = float(input('Digite um valor: '))
+print(type(n))
+n1 = bool(input("Informe um valor: "))
+print(type(n1))
+print(n1)
